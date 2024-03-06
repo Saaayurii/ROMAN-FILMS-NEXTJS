@@ -55,3 +55,13 @@ yarn dev
 ```
 
 ## Screenshots
+
+![Screenshot of Home Page](screenshots/Screenshot_17.png)
+
+![Screenshot of Home Page](screenshots/Screenshot_18.png)
+
+![Screenshot of Home Page](screenshots/Screenshot_19.png)
+
+![Screenshot of Home Page](screenshots/Screenshot_20.png)
+
+![Screenshot of Home Page](screenshots/Screenshot_21.png)
